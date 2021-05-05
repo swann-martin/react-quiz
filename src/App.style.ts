@@ -9,8 +9,8 @@ html{
 }
 
 body{
-    
-    background : url(${BGImage}) center/cover;
+    height : 100vh;
+    background : url(${BGImage}) center/cover no-repeat;
     margin: 0;
     padding : 0;
     display :flex;

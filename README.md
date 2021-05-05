@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# The React Quiz
+
+![screenshot](public/assets/Screenshot-ReactQuizz.png)
+
+## This project was made following a youtube tutorial to learn React.js and TypeScript. It was made by free-code-camp. It is not original.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Once downloaded, in the project directory, you should install the **node_modules** by running in your terminal:
 
-In the project directory, you can run:
+> `npm i`
+
+Then
 
 ### `yarn start`
 
