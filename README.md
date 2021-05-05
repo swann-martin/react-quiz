@@ -1,6 +1,7 @@
 # The React Quiz
 
 ![screenshot](public/assets/Screenshot-ReactQuizz.png)
+![screenshot](public/assets/Screenshot-ReactQuizz2.png)
 
 ## This project was made following a youtube tutorial to learn React.js and TypeScript. It was made by free-code-camp. It is not original.
 
